@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100%" src="">
+<img align="right" alt="Coding" width="100%" src="babin.png">
 <h1 align="center"># Hi 👋, I'm Babin Chaudhary</h1>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWVuOWt3OTNveXBzODM4bHJ1eHJ1dTJ5ajI4Zm9ld2o4ZmI1ZzRsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif">
